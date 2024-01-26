@@ -29,7 +29,7 @@ This section contains visualizations for Class A signals in the ASeg1 segment af
 ![Remove the DC Component](https://github.com/abanoubashraf686/DSP-Tasks/blob/master/Data%20After%20Preprocessing/Class%20A%20signals/ASeg1/Plots/2-%20Remove%20the%20DC%20component.png)
 
 ### Normalize the Signal to -1 to 1
-![Normalize the Signal to -1 to 1](https://github.com/abanoubashraf686/DSP-Tasks/blob/master/Data%20After%20Preprocessing/Class%20A%20signals/ASeg1/Plots/3-%20Normalize%20the%20signal%20to%20be%20from%20-1%20to%201.png)
+![Normalize the Signal to -1 to 1]((https://github.com/abanoubashraf686/DSP-Tasks/blob/master/Data%20After%20Preprocessing/Class%20A%20signals/ASeg1/Plots/3-%20Normalize%20the%20signal%20to%20be%20from%20-1%20to%201.png.png))
 
 ### Auto Correlation
 ![Auto Correlation](https://github.com/abanoubashraf686/DSP-Tasks/blob/master/Data%20After%20Preprocessing/Class%20A%20signals/ASeg1/Plots/4-%20Auto%20correlation.png)
