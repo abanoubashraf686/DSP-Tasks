@@ -39,12 +39,3 @@ This section contains visualizations for Class A signals in the ASeg1 segment af
 
 ### Computing DCT
 ![Computing DCT](https://github.com/abanoubashraf686/DSP-Tasks/blob/master/Data%20After%20Preprocessing/Class%20A%20signals/ASeg1/Plots/6-%20Computing%20DCT.png)
-
-
-
-## Contributions
-Feedback and contributions are welcome to enrich the learning experience and resources in this repository.
-
----
-
-Feel free to adjust the content as needed to better fit your project's specifics.
